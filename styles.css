@@ -1,0 +1,28 @@
+.row {
+    width: 60%;
+    margin: auto;
+   justify-content: center;
+
+}
+.post-head {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container2  {
+    margin: auto;
+    margin-top: 10px;
+    width: 66%;
+  
+justify-content: center;
+
+}
+
+#nav-tab {
+    justify-content: center;
+}
+
+.butoon1 {
+    color: rgb(131, 131, 135);
+}
